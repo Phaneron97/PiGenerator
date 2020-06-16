@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592337353 source:d:\projecten\persoonlijk\c\pigenerator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
